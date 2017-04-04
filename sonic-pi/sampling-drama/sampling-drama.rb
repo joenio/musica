@@ -1,5 +1,7 @@
 # sampling-drama.rb
 #
+# https://soundcloud.com/joenio/sampling-drama
+#
 # Este código é uma adaptação do som "Sonic Dreams" por "Sam Aaron"
 # e faz parte das minhas experiências e aprendizado de linguagens e
 # ferramentas para edição, composição e live coding com música.

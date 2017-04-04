@@ -1,5 +1,7 @@
 # sampling-leka.rb
 #
+# https://soundcloud.com/joenio/sampling-leka
+#
 # Este código é uma adaptação do som "Filtered Dnb" por "Sam Aaron"
 # e faz parte das minhas experiências e aprendizado de linguagens e
 # ferramentas para edição, composição e live coding com música.

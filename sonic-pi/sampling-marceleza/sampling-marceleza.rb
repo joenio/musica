@@ -1,5 +1,7 @@
 # sampling-marceleza.rb
 #
+# https://soundcloud.com/joenio/sampling-marceleza
+#
 # Este código é uma adaptação do som "Blimp Zones" por "Sam Aaron"
 # e faz parte das minhas experiências e aprendizado de linguagens e
 # ferramentas para edição, composição e live coding com música.
